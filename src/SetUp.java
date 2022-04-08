@@ -1,7 +1,7 @@
 public class SetUp {
     // Setting a project for everyone
 
- olha
+     //   olha
     // Olha made a branch and edited this file
 
     // bla bla
@@ -14,5 +14,5 @@ public class SetUp {
 
     //hi G34.
     //You guys are awesome!
- develop
+    //develop
 }
